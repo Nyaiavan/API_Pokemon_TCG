@@ -58,7 +58,7 @@ name – The name of the Pokémon, e.g., pikachu
 # Authentication
 None
 
-#Sample JSON Response
+# Sample JSON Response
 {
   "sprites": {
     "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
